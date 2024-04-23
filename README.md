@@ -1,7 +1,6 @@
 ### Hi there 👋 I'm Iryna Havryliuk
 
-<img src= "kandinsky-download-1713832265803.png" width=200px >
-
+![kandinsky-download-1713832265803](https://github.com/IrynaHavryliuk/IrynaHavryliuk/assets/99551348/56caff51-148a-4e44-bac9-e0af9a1e2601)
 
 Fullstack developer
 
@@ -9,6 +8,7 @@ Fullstack developer
 - 📫 How to reach me: gis.80@ukr.net
 
 Skills
+
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
