@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Iryna Havryliuk
 
-<img src= kandinsky-download-1713832265803.png width=200px >
+<img src= "kandinsky-download-1713832265803.png" width=200px >
 
 
 Fullstack developer
