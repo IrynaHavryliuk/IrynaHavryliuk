@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Iryna Havryliuk
 
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--O0u1bNHs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://miro.medium.com/max/1400/0%2APXf5ge7QCN9Ga_CL.gif" width=200px >
+<img src= kandinsky-download-1713832265803.png width=200px >
 
 
 Fullstack developer
