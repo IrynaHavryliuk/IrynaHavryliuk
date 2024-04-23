@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Iryna Havryliuk
 
-![kandinsky-download-1713833598707](https://github.com/IrynaHavryliuk/IrynaHavryliuk/assets/99551348/87d6d108-5918-4a55-a356-db23246e3cda)
+![kandinsky-download-1713833796790](https://github.com/IrynaHavryliuk/IrynaHavryliuk/assets/99551348/eb2494a8-d359-4405-b968-81082ff803bb)
 
 Fullstack developer
 
