@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Iryna Havryliuk
 
-<img src="(https://res.cloudinary.com/practicaldev/image/fetch/s--O0u1bNHs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://miro.medium.com/max/1400/0%2APXf5ge7QCN9Ga_CL.gif)" alt="full-steak-developer">
+<img src="([https://res.cloudinary.com/practicaldev/image/fetch/s--O0u1bNHs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://miro.medium.com/max/1400/0%2APXf5ge7QCN9Ga_CL.gif](https://uploads.toptal.io/blog/image/92510/toptal-blog-image-1463492564587-353a3c288892f1e43929cee358dbc24f.gif))" alt="full-steak-developer">
 
 
 Full Steak Developer
