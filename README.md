@@ -1,11 +1,12 @@
 ### Hi there 👋 I'm Iryna Havryliuk
 
-![kandinsky-download-1713833796790](https://github.com/IrynaHavryliuk/IrynaHavryliuk/assets/99551348/eb2494a8-d359-4405-b968-81082ff803bb)
+![kandinsky-download-1713833916026](https://github.com/IrynaHavryliuk/IrynaHavryliuk/assets/99551348/e1178c20-35f6-41de-b0dd-e07d7077af68)
 
-Fullstack developer
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Fullstack+developer)](https://git.io/typing-svg)
 
 
 - 📫 How to reach me: gis.80@ukr.net
+
 
 Skills
 
@@ -24,3 +25,6 @@ Skills
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
